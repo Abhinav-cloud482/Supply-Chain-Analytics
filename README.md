@@ -2,7 +2,7 @@
 End-to-end supply chain analytics pipeline featuring synthetic data generation, ML-based demand forecasting, inventory optimization (Safety Stock, ROP, EOQ), delivery delay risk prediction, financial impact modeling, and executive business insights.
 
 
-# Supply Chain Analytics & Inventory Optimization Pipeline
+## Supply Chain Analytics & Inventory Optimization Pipeline
 
 An end-to-end machine learning pipeline for supply chain analytics that combines demand forecasting, inventory optimization, logistics risk prediction, and financial impact analysis into a single workflow.
 
